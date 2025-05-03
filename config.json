@@ -1,0 +1,10 @@
+{
+  "siteTitle": "Cook Your Life",
+  "logoSrc": "/logo.png",
+  "navLinks": [
+    { "text": "Github", "url": "/" },
+    { "text": "加入社群", "url": "/about" },
+    { "text": "内容投稿", "url": "/contact" } 
+  ],
+  "footerText": "© 2025 Cook Your Life. 保留所有权利."
+}
